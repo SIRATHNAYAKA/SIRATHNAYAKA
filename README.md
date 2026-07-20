@@ -1,6 +1,6 @@
 <!-- 👋 Simple Heading -->
 <p align="center">
-<img src="./github-banner.png" width="100%">
+<img src="./github-banner.png.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sachin Rathnayaka</h1>
