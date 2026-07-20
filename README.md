@@ -1,6 +1,10 @@
 <!-- 👋 Simple Heading -->
 <p align="center">
-<img src="./github-banner.png.png" width="100%">
+<img src="./github-banner.png.jpg" width="100%">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sirathnayaka&label=Profile%20Views&color=0E75B6&style=for-the-badge">
 </p>
 
 <h1 align="center">Hi, I'm Sachin Rathnayaka</h1>
@@ -24,10 +28,19 @@
 - 🚀 Passionate about UI/UX Design and Software Development
 - 🌱 Currently improving Full Stack Development skills
 - 🏢 Founder of **Black Studio**
-- 📫 Reach me at: **your-email@gmail.com**
-- 🌐 Portfolio: **Coming Soon**
+- 📫 Reach me at: imantha0316@gmail.com
+- 🌐 Portfolio: https://sirathnayaka.github.io/premium-portfolio/
 
 ---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Graphic%20Designer-0E75B6?style=for-the-badge&logo=adobe">
+<img src="https://img.shields.io/badge/Web%20Developer-0E75B6?style=for-the-badge&logo=code">
+<img src="https://img.shields.io/badge/UI%2FUX%20Designer-0E75B6?style=for-the-badge&logo=figma">
+<img src="https://img.shields.io/badge/Black%20Studio-Founder-0E75B6?style=for-the-badge&logo=creativecommons">
+
+</p>
 
 ## 🌐 Connect With Me
 
@@ -105,3 +118,7 @@ Photoshop
 Illustrator
 Arduino
 Firebase
+
+```
+---
+
