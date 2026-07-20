@@ -3,7 +3,7 @@
 <img src="./github-banner.png.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sachin Rathnayaka</h1>
+<h1 align="center">Hi, I'm Sachin Rathnayaka</h1>
 
 <!-- ✨ Typing Animation Header -->
 <h2 align="center">
